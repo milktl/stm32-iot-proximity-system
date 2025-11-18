@@ -27,3 +27,9 @@ An embedded IoT proximity monitoring system developed using an STM32 Nucleo-L552
 - ThingSpeak Cloud Dashboard (optional)
 
 ## 📁 Repository Structure
+/
+├── Inc/ # Header files
+├── Src/ # Source files
+├── docs/ # Diagrams, photos, wiring (optional)
+├── LICENSE
+└── README.md
